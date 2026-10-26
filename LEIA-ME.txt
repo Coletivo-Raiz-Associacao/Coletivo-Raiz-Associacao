@@ -1,0 +1,6 @@
+COLETIVO RAIZ — GITHUB PAGES
+1. Extraia este ZIP.
+2. Envie o arquivo index.html para a raiz do repositório GitHub (não envie apenas o ZIP).
+3. No GitHub, abra Settings > Pages.
+4. Em Build and deployment, selecione Deploy from a branch, branch main e pasta /(root), e salve.
+5. O endereço do site aparecerá na seção Pages após a publicação.
